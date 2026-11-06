@@ -9,7 +9,7 @@ for attempts in attempts_list:
         risk = "MEDIUM"
     else:
         risk = "LOW"
-    
+
     print(f"Attempts: {attempts} -> Risk: {risk}")
 
 print(f"Total HIGH risks detected: {high_count}")
