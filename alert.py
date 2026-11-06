@@ -1,0 +1,1 @@
+print("Alert: suspicious login detected\nUser: Jon Doe\nIP:1.2.3.4\nTime:20261031_21:43PM")
